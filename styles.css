@@ -1,0 +1,34 @@
+p {
+    color: rgb(239, 137, 5);
+    text-decoration-style: wavy;
+}
+
+h1 {
+    color: aqua;
+}
+
+header {
+   text-shadow: 2px 2px 4px #c92323; 
+    
+
+}
+
+main {
+    text-shadow: 2px 2px 4px #18f808;
+}
+
+header {
+    background-color: aqua;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+    background-color: burlywood;
+}
+
+footer { 
+    text-align: left;
+    background-color: cadetblue;
+    text-shadow: pink;
+}
